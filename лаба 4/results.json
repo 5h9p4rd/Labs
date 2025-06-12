@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "area": 301336.0,
+        "population": 59554023,
+        "currency": "EUR"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "area": 338424.0,
+        "population": 5530719,
+        "currency": "EUR"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "area": 505992.0,
+        "population": 47351567,
+        "currency": "EUR"
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "area": 17098242.0,
+        "population": 144104080,
+        "currency": "RUB"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "area": 357114.0,
+        "population": 83240525,
+        "currency": "EUR"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "area": 312679.0,
+        "population": 37950802,
+        "currency": "PLN"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "area": 207600.0,
+        "population": 9398861,
+        "currency": "BYN"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "area": 242900.0,
+        "population": 67215293,
+        "currency": "GBP"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "area": 323802.0,
+        "population": 5379475,
+        "currency": "NOK"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "area": 238391.0,
+        "population": 19286123,
+        "currency": "RON"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "area": 450295.0,
+        "population": 10353442,
+        "currency": "SEK"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "area": 551695.0,
+        "population": 67391582,
+        "currency": "EUR"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kyiv",
+        "area": 603500.0,
+        "population": 44134693,
+        "currency": "UAH"
+    }
+]
